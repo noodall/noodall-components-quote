@@ -1,5 +1,0 @@
-= Noodall Quote Component
-
-A quote component for Noodall
-
-This project rocks and uses MIT-LICENSE.
